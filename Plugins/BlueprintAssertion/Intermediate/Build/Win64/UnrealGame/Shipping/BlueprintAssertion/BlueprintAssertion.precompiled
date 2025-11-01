@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\BlueprintAssertion\\Module.BlueprintAssertion.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\BlueprintAssertion\\BlueprintAssertion.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\BlueprintAssertion\\BlueprintAssertionBPLibrary.cpp.obj"
+	]
+}
